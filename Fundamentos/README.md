@@ -4,9 +4,9 @@ O primeiro módulo ensina tudo que uma pessoa desenvolvedora precisa saber para 
 
 - [x] **BLOCO 01:** Unix & Bash
 
-- [ ] **BLOCO 02:** Git, GitHub & Internet
+- [x] **BLOCO 02:** Git, GitHub & Internet
 
-- [ ] **BLOCO 03:** Introdução à HTM e CSS
+- [ ] **BLOCO 03:** Introdução à HTML e CSS
 
 - [ ] **BLOCO 04:** Introdução à JavaScript e Lógica de Programação
 
