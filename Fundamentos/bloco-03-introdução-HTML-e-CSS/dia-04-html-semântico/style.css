@@ -1,9 +1,9 @@
 * {
-    background-color: whitesmoke;
+    background-color: gainsboro;
 }
 
 h1 {
-    padding: 350px;
+    padding: 150px;
     padding-bottom: 50px;
     text-align: center;
 }
@@ -23,5 +23,12 @@ aside {
   margin-left: 10px;
   float: right;
   font-style: italic;
-  background-color: lightgray;
+}
+
+img {
+    width: 300px;
+    border-radius: 300px 10%;
+    margin-left: 200px;
+    margin-right: 100px;
+    margin-top: 150px;
 }

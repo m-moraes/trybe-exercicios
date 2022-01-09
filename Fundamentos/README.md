@@ -6,15 +6,15 @@ O primeiro módulo ensina tudo que uma pessoa desenvolvedora precisa saber para 
 
 - [x] **BLOCO 02:** Git, GitHub & Internet
 
-- [ ] **BLOCO 03:** Introdução à HTML e CSS
+- [x] **BLOCO 03:** Introdução à HTML e CSS
 
-- [ ] **BLOCO 04:** Introdução à JavaScript e Lógica de Programação
+- [x] **BLOCO 04:** Introdução à JavaScript e Lógica de Programação
 
-- [ ] **BLOCO 05:** JavaScript: DOM, Eventos e Web Storage
+- [x] **BLOCO 05:** JavaScript: DOM, Eventos e Web Storage
 
-- [ ] **BLOCO 06:** HTML e CSS: Forms, Flexbox e Responsivo
+- [x] **BLOCO 06:** HTML e CSS: Forms, Flexbox e Responsivo
 
-- [ ] **BLOCO 07:** Introdução à JavaScript ES6 e Testes Unitários
+- [x] **BLOCO 07:** Introdução à JavaScript ES6 e Testes Unitários
 
 - [ ] **BLOCO 08:** Higher Order Functions do JavaScript ES6
 
