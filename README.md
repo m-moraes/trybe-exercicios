@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿# Trybe
+<h1> Trybe </h1>
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Mariana da Silva Moraes](https://www.linkedin.com/in/mariana-moraes-87394920a/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
