@@ -9,5 +9,8 @@
     "bmi": "node ."
   },
   "author": "Mariana Moraes",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
