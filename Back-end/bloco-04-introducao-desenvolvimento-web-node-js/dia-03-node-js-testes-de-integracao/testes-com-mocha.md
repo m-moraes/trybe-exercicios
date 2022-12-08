@@ -1,16 +1,10 @@
-## ****Testes com o Mocha
-
-
+## Testes com o Mocha
 
 Para instalar o Mocha: 
 
 npm install -D mocha@10.0 chai@4.3
 
-
-
 Depois disso, é necessário importar o Mocha e o chai no arquivo .js e escrever os tetes. 
-
-
 
 **describe e it**:
 
@@ -28,7 +22,7 @@ describe('Quando a média for menor que 7', function () {
 
 **Aferindo testes com o Chai**
 
-****Ele nos ajuda com as asserções, nos fornecendo maneiras que dizer o que queremos testar, validando o resultado.
+Ele nos ajuda com as asserções, nos fornecendo maneiras que dizer o que queremos testar, validando o resultado.
 
 ```
 const { expect } = require('chai');
@@ -36,5 +30,3 @@ const resposta = calculaSituacao(4);
 
 expect(resposta).equals('reprovação');
 ```
-
-
